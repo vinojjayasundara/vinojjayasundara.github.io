@@ -14,6 +14,6 @@ redirect_from:
 <br/>
 # News!
 
-* December 2019: Attended and presented out work at <span style="color:green"> NeurIPS'19</span> in Vancouver, Canada.
-* December 2019: One paper accepted to <span style="color:green"> ICAART'20</span>!
-* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">September 2019:</span> Our work on <a href = "https://arxiv.org/pdf/1910.12306.pdf">tree-structured capsule networks</a> is accepted to the ML for Systems Workshop,<span style="color:green"> NeurIPS'19</span>!</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">December 2019: Attended and presented out work on <a href = "https://arxiv.org/pdf/1910.12306.pdf">tree-structured capsule networks</a> at <span style="color:green"> NeurIPS'19</span> in Vancouver, Canada.</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">December 2019: One paper accepted to <span style="color:green"> ICAART'20</span>!</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">September 2019:</span> One paper accepted to the ML for Systems Workshop,<span style="color:green"> NeurIPS'19</span>!</span></div>
