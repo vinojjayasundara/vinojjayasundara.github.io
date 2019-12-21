@@ -13,4 +13,4 @@ redirect_from:
 
 # News!
 
-* <span style="text-align: right; font-size:0.9em;"> Sep'19: Our work on [tree-structured capsule networks](https://arxiv.org/pdf/1910.12306.pdf) accepted to ML for Systems Workshop, NeurIPS'19.</span>
+* <span style="text-align: right; font-size:0.9em;"> Sep'19: Our work on [tree-structured capsule networks](https://arxiv.org/pdf/1910.12306.pdf) accepted to ML for Systems Workshop, <span style="color:green"> NeurIPS'19 </span>.</span>
