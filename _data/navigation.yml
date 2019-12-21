@@ -7,7 +7,10 @@ main:
     url: /education/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+    
+  - title: "Services"
+    url: /services/  
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -23,6 +26,9 @@ main:
     
   - title: "Awards"
     url: /awards/
+    
+  - title: "Miscellaneous!"
+    url: /misc/  
     
 #   - title: "Guide"
 #     url: /markdown/
