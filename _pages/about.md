@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a Research Engineer at the Agency for Science, Technology and Research (A\*STAR), Singapore. I am also
+
 # News!
+
+* Sep'19: Our work on [tree-structured capsule networks](https://arxiv.org/pdf/1910.12306.pdf) accepted to ML for Systems Workshop, NeurIPS'19.
