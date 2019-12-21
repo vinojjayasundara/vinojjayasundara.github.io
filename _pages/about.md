@@ -13,7 +13,7 @@ redirect_from:
 
 <div style="text-align: justify"><span style="font-size:0.9em;"> I received my Bachelor of Information Technology (<span style="color:black">BIT</span>) from University of Moratuwa in 2017, my Bachelor of Laws (<span style="color:black">LL.B.</span>) from University of London in 2016. I received my Honours Degree of Bachelor of the Science of Engineering (<span style="color:black">B.Sc. in Engineering</span>) from University of Moratuwa, where I completed my thesis on Capsule Networks under the supervision of Dr. <a href = "https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en&oi=ao">Basura Fernando</a>.</span></div>
   
-My research interests lie at the intersection of computer vision and machine learning.</span></div>
+My research interests lie at the intersection of computer vision and machine learning. I am particularly interested in activity recognition and forecasting, object detection and recognition, image and video segmentation, scene understanding, deep generative models, adversarial attacks and defenses, geometric modeling, vision and language, capsule networks, model optimization, few and zero-shot learning, transfer learning, meta learning, active learning, and deep learning.</span></div>
 <br/>
 # News!
 
