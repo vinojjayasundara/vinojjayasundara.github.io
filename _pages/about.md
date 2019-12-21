@@ -9,7 +9,7 @@ redirect_from:
 
 ![Honored!](vinojjayasundara.github.io/images/cover.jpg)
 
-<span style="font-size:0.9em;"><div style="text-align: justify"> I am a Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore. I am also a Senior Software Engineer and the Project Lead of the computer vision team at Reservoir Rock Technologies, Australia. </div></span>
+<div style="text-align: justify"><span style="font-size:0.9em;"> I am a Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore. I am also a Senior Software Engineer and the Project Lead of the computer vision team at Reservoir Rock Technologies, Australia.</span></div>
 
 # News!
 
