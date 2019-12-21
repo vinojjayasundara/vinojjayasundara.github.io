@@ -13,8 +13,12 @@ redirect_from:
 <br/>
 # News!
 
-* <div style="text-align: justify"><span style="font-size:0.9em;">December 2019: Attended and presented our work on <a href = "https://arxiv.org/pdf/1910.12306.pdf">tree-structured capsule networks</a> at <span style="color:green"> NeurIPS'19</span> in Vancouver, Canada.</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">December 2019: I attended and presented our work on <a href = "https://arxiv.org/pdf/1910.12306.pdf">tree-structured capsule networks</a> at <span style="color:green"> NeurIPS'19</span> in Vancouver, Canada.</span></div>
 * <div style="text-align: justify"><span style="font-size:0.9em;">December 2019: One paper accepted to <span style="color:green"> ICAART'20</span>!</span></div>
 * <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">September 2019:</span> One paper accepted to the ML for Systems Workshop,<span style="color:green"> NeurIPS'19</span>!</span></div>
-* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">June 2019:</span> One paper accepted to <span style="color:green"> CVPR'19</span>!</span></div>
-* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">January 2019:</span> One paper accepted to <span style="color:green"> WACV'19</span>!</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">June 2019: I attended and presented our work on <a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Rajasegaran_DeepCaps_Going_Deeper_With_Capsule_Networks_CVPR_2019_paper.pdf">going deeper with capsule networks</a> at <span style="color:green"> NeurIPS'19</span> in Long Beach, USA.</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">June 2019: I attended and presented our work on <a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Rajasegaran_DeepCaps_Going_Deeper_With_Capsule_Networks_CVPR_2019_paper.pdf">going deeper with capsule networks</a> at <span style="color:green"> CVPR'19</span> in Long Beach, USA.</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">July 2019:</span> One paper accepted to <span style="color:green"> ICSME'19</span>!</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">March 2019:</span> One paper accepted to <span style="color:green"> CVPR'19</span>!</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;">January 2019: I attended and presented our work on <a href = "https://arxiv.org/pdf/1904.08095.pdf">handwritten character recognition with very small datasets</a> at <span style="color:green"> WACV'19</span> in Hawaii, USA.</span></div>
+* <div style="text-align: justify"><span style="font-size:0.9em;"> <span style="color:black">November 2019:</span> One paper accepted to <span style="color:green"> WACV'19</span>!</span></div>
