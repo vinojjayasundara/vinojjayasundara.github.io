@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Engineer at the Agency for Science, Technology and Research (A\*STAR), Singapore. I am also
+![Honored!](/images/me.jpg)
+
+I am a Research Engineer at the Agency for Science, Technology and Research (A\*STAR), Singapore. I am also a Senior Software Engineer and the Project Lead of the computer vision team at Reservoir Rock Technologies, Australia.
 
 # News!
 
