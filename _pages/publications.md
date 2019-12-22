@@ -10,14 +10,15 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<span style="font-size:0.9em;text-align: justify">A full list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao">Google Scholar</a> profile.</span>
 
-## **Journal Papers**
+### Journal Papers
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;text-align: justify"> [1] <b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing.</b><br />
-  &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Nghi Duy Quoc Bui, Lingxiao Jiang and David Lo <br />
- &nbsp; ML for Systems Workshop, Advances in Neural Information Processing Systems (<span style="color:green">NeurIPS</span>) 2019. <br/>
-   &nbsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a></span>
+  &nbsp; &nbsp;<span style="color:green">Vinoj Jayasundara</span>, Nghi Duy Quoc Bui, Lingxiao Jiang and David Lo <br />
+ &nbsp;&nbsp; ML for Systems Workshop, Advances in Neural Information Processing Systems (<span style="color:green">NeurIPS</span>) 2019. <br/>
+   &nbsp;&nbsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a></span>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
