@@ -54,8 +54,8 @@ author_profile: true
 
 ### Under Review
 
-<span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep Learning Based Approach</b><br />
-  &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Hirunima Jayasekara, Tharaka Samarasinghe and Kasun T Hemachandra<br />
+<span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep Learning Approach</b><br />
+  &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Hirunima Jayasekara, Tharaka Samarasinghe and Kasun T. Hemachandra<br />
   &nbsp; &nbsp; &nbsp; <i>Submitted to: </i>IEEE Sensors Journal (<span style="color:green">IEEE Sensors</span>) 2019. (Minor Revision)<br/>
    &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/pdf/1911.11743.pdf">[Paper]</a> </span>
 
