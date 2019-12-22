@@ -13,7 +13,7 @@ author_profile: true
 
 ## **Journal Papers**
 
-<img style="float: right;" src="/images/cvpr.jpg" width="50%"> Other text
+<img style="float: right;" src="/images/cvpr.jpg" width="30%"> Other text
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
