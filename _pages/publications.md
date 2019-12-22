@@ -14,8 +14,8 @@ author_profile: true
 ## **Journal Papers**
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
-<span style="font-size:0.9em;text-align: justify"> [1] Jayasundara, Vinoj., Bui, N., Jiang, L. and Lo, D.
-TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing. 
+<span style="font-size:0.9em;text-align: justify"> [1] Jayasundara, Vinoj., Bui, N., Jiang, L. and Lo, D.<br />
+TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing. <br />
 Advances in Neural Information Processing Systems, ML for Systems Workshop (NeurIPS Workshops), 2019.</span>
 
 {% for post in site.publications reversed %}
