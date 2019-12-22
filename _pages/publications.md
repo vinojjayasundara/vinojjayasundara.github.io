@@ -39,14 +39,8 @@ author_profile: true
  &nbsp; &nbsp; &nbsp; ML for Systems Workshop, Advances in Neural Information Processing Systems (<span style="color:green">NeurIPS</span>) 2019. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/treecaps">[Code]</a></span>
 
-## **Conference and Workshop Papers**
+### Journal Articles
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
-## **Under Review**
+### Under Review
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
