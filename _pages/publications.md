@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 <span style="font-size:0.9em;text-align: justify">A full list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao">Google Scholar</a> profile.</span>
 
-<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 58em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Conference and Workshop Papers</b></span><br/>
+<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Conference and Workshop Papers</b></span><br/>
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing</b><br />
@@ -45,7 +45,7 @@ author_profile: true
  &nbsp; &nbsp; &nbsp; IEEE Digital Image Computing: Techniques and Applications (<span style="color:green">DICTA</span>) 2017. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8227463/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/DICTA17_ppt.pptx">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/DICTA2017_Poster.pdf">[Poster]</a> </span>
 
-### Journal Articles
+<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Journal Articles</b></span><br/>
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Combined Static and Motion Features for Deep-Networks Based Activity Recognition in Videos</b><br />
   &nbsp; &nbsp; &nbsp; Sameera Ramasinghe, Jathushan Rajasegaran, <span style="color:green">Vinoj Jayasundara</span>, Kanchana Ranasinghe, Ranga Rodrigo and Ajith Pasqual<br />
@@ -53,7 +53,7 @@ author_profile: true
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8060555/">[Paper]</a></span>
 
 
-### Under Review
+<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><Under Review</b></span><br/>
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep Learning Approach</b><br />
   &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Hirunima Jayasekara, Tharaka Samarasinghe and Kasun T. Hemachandra<br />
