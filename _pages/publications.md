@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 <span style="font-size:0.9em;text-align: justify">A full list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao">Google Scholar</a> profile.</span>
-### <span style="color:black;background-color: #F0F0F0;height: 3em; width: 10em; display:inline-block; vertical-align: middle;">Conference and Workshop Papers <br/></span>
+### <span style="color:black;background-color: #F0F0F0;height: 3em; width: 100em; display:inline-block; vertical-align: middle;">Conference and Workshop Papers <br/></span>
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing</b><br />
