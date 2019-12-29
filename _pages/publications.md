@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 <span style="font-size:0.9em;text-align: justify">A full list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=2yTeZ58AAAAJ&hl=en&oi=ao">Google Scholar</a> profile.</span>
 
-<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Conference and Workshop Papers</b></span><br/>
+<span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Conference and Workshop Papers</b></span><br/>
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
-<span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing</b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing</b><br />
   &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Nghi Duy Quoc Bui, Lingxiao Jiang and David Lo <br />
  &nbsp; &nbsp; &nbsp; ML for Systems Workshop, Advances in Neural Information Processing Systems (<span style="color:green">NeurIPS</span>) 2019. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8658735/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/textcaps">[Code]</a></span>
 
-<span style="font-size:0.9em;text-align: justify"> [2]<span style="color:white">a</span><b>TextCaps: Handwritten Character Recognition with Very Small Datasets</b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>TextCaps: Handwritten Character Recognition with Very Small Datasets</b><br />
   &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Sandaru Jayasekara, Hirunima Jayasekara, Jathushan Rajasegaran, Suranga Seneviratne and Ranga Rodrigo <br />
  &nbsp; &nbsp; &nbsp; IEEE Winter Conference on Applications of Computer Vision (<span style="color:green">WACV</span>) 2019. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/pdf/1910.12306.pdf">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/NeurIPS19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/treecaps">[Code]</a></span>
@@ -45,7 +45,7 @@ author_profile: true
  &nbsp; &nbsp; &nbsp; IEEE Digital Image Computing: Techniques and Applications (<span style="color:green">DICTA</span>) 2017. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8227463/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/DICTA17_ppt.pptx">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/DICTA2017_Poster.pdf">[Poster]</a> </span>
 
-<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Journal Articles</b></span><br/>
+<span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Journal Articles</b></span><br/>
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Combined Static and Motion Features for Deep-Networks Based Activity Recognition in Videos</b><br />
   &nbsp; &nbsp; &nbsp; Sameera Ramasinghe, Jathushan Rajasegaran, <span style="color:green">Vinoj Jayasundara</span>, Kanchana Ranasinghe, Ranga Rodrigo and Ajith Pasqual<br />
@@ -53,7 +53,7 @@ author_profile: true
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8060555/">[Paper]</a></span>
 
 
-<span style="font-size:0.9em; color:gray;background-color: #F0F0F0;height: 3em; width: 57em; display:inline-block; vertical-align: middle; padding: 12px;"><b>Under Review</b></span><br/>
+<span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Under Review</b></span><br/>
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep Learning Approach</b><br />
   &nbsp; &nbsp; &nbsp; <span style="color:green">Vinoj Jayasundara</span>, Hirunima Jayasekara, Tharaka Samarasinghe and Kasun T. Hemachandra<br />
