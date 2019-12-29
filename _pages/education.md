@@ -12,10 +12,10 @@ author_profile: true
 <span style="font-size:1em; color:blue;padding-left: 8px;">Computer Vision and AI related Modules</span>
 
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision<br/>
-<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Machine Vision<br/>
-<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Advances in Machine Vision<br/>
-<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Neural Network and Fuzzy Logic<br/>
-<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Time Series and Stochastic Processes<br/>
+&bull; Machine Vision<br/>
+&bull; Advances in Machine Vision<br/>
+&bull; Neural Network and Fuzzy Logic<br/>
+&bull; Time Series and Stochastic Processes</span><br/>
   
 <span style="font-size:1em; color:blue;padding-left: 8px;">Mathematics Modules</span>
 
