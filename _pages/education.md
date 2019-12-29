@@ -44,3 +44,15 @@ author_profile: true
 <span style="font-size:1em; color:blue;padding-left: 8px;">Law Modules</span>
 
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Criminal Law </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Public Law </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Elements of the Law of Contracts </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Company Law </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Commercial Law </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Property Law </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Jurisprudence and Legal Theory </span><br/>
+
+<span style="font-size:1em; color:blue;padding-left: 8px;">Core Skills Acquired</span>
+
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Analytical Thinking </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Technical Writing </span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Communication Skills </span><br/>
