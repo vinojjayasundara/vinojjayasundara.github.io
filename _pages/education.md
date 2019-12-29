@@ -11,6 +11,6 @@ author_profile: true
 
 <span style="font-size:1em; color:blue;padding-left: 8px;">Computer Vision and AI related Modules</span><br/>
 
-<span style="font-size:0.9em; color:black;padding-left: 8px;">&thinsp; &bull; Fundamentals of Image Processing & Machine Vision </span>
+<span style="font-size:0.9em; color:black;padding-left: 8px;">&thinsp; &bull; Fundamentals of Image Processing & Machine Vision
 
-<span style="font-size:0.9em; color:black;padding-left: 8px;">&thinsp; &bull; Machine Vision </span>
+&thinsp; &bull; Machine Vision </span>
