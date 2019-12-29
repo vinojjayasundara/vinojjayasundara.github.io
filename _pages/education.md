@@ -9,7 +9,18 @@ author_profile: true
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of the Science of Engineering | University of Moratuwa | GPA: 3.99/4.20 | First Class</b></span><br/>
 
-<span style="font-size:1em; color:blue;padding-left: 8px;">Computer Vision and AI related Modules</span><br/>
+<span style="font-size:1em; color:blue;padding-left: 8px;">Computer Vision and AI related Modules</span>
 
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision<br/>
-<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Machine Vision
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Machine Vision<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Advances in Machine Vision<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Neural Network and Fuzzy Logic<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Time Series and Stochastic Processes<br/>
+  
+<span style="font-size:1em; color:blue;padding-left: 8px;">Mathematics Modules</span>
+
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Machine Vision<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Advances in Machine Vision<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Neural Network and Fuzzy Logic<br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Time Series and Stochastic Processes<br/>
