@@ -19,6 +19,15 @@ author_profile: true
   
 <span style="font-size:1em; color:blue;padding-left: 8px;">Mathematics Modules</span>
 
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Linear Algebra</span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Differential Equations</span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Calculus</span><br/>
+<span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Numerical Methods</span><br/>
+
+<span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of Information Technology | University of Moratuwa | First Class</b></span><br/>
+
+<span style="font-size:1em; color:blue;padding-left: 8px;">Core Computer Science Modules</span>
+
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision</span><br/>
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Machine Vision</span><br/>
 <span style="font-size:0.9em; color:black;padding-left: 8px;"> &bull; Advances in Machine Vision</span><br/>
