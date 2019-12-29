@@ -9,6 +9,6 @@ author_profile: true
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of the Science of Engineering | University of Moratuwa | GPA: 3.99/4.20 | First Class</b></span><br/>
 
-<span style="font-size:1em; color:blue;width: 45%;">Computer Vision and AI Modules</span><span style="font-size:1em; color:blue;width: 45%;">Mathematics Modules</span><br/>
+<span style="font-size:1em; color:blue;width: 25em;">Computer Vision and AI Modules</span><span style="font-size:1em; color:blue;width: 25em;">Mathematics Modules</span><br/>
 
 
