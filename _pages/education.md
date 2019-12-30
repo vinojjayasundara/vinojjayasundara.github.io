@@ -9,7 +9,7 @@ author_profile: true
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of the Science of Engineering (BSc. Eng. Hons) | University of Moratuwa | GPA: 3.99/4.20 | First Class Honours</b></span><br/>
 
-<span style="font-size:1em; color:blue;padding-left: 8px;">Computer Vision and AI related Modules</span>
+<span style="font-size:1em; color:green;padding-left: 8px;">Computer Vision and AI related Modules</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Machine Vision</span><br/>
