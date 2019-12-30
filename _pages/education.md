@@ -17,7 +17,7 @@ author_profile: true
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Neural Network and Fuzzy Logic</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Time Series and Stochastic Processes</span><br/>
   
-<span style="font-size:1em; color:blue;padding-left: 8px;">Mathematics Modules</span>
+<span style="font-size:1em; color:green;padding-left: 8px;">Mathematics Modules</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Linear Algebra</span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Differential Equations</span><br/>
@@ -26,7 +26,7 @@ author_profile: true
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of Information Technology (BIT) | University of Moratuwa | First Class</b></span><br/>
 
-<span style="font-size:1em; color:blue;padding-left: 8px;">Core Computer Science Modules</span>
+<span style="font-size:1em; color:green;padding-left: 8px;">Core Computer Science Modules</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Data Structures and Algorithms </span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Expert Systems and Natural Language Processing </span><br/>
@@ -41,7 +41,7 @@ author_profile: true
 
 <span style="font-size:1em; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Bachelor of Laws (LL.B.) | University of London | Second Class Honours</b></span><br/>
 
-<span style="font-size:1em; color:blue;padding-left: 8px;">Law Modules</span>
+<span style="font-size:1em; color:green;padding-left: 8px;">Law Modules</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Criminal Law </span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Public Law </span><br/>
@@ -51,7 +51,7 @@ author_profile: true
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Property Law </span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Jurisprudence and Legal Theory </span><br/>
 
-<span style="font-size:1em; color:blue;padding-left: 8px;">Core Skills Acquired</span>
+<span style="font-size:1em; color:green;padding-left: 8px;">Core Skills Acquired</span>
 
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Analytical Thinking </span><br/>
 <span style="font-size:0.9em; padding-left: 8px;"> &bull; Technical Writing </span><br/>
