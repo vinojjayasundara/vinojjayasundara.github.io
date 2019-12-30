@@ -31,6 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
+    font-family: $georgia;
     font-size: $type-size-6;
 
     @include breakpoint($large) {
@@ -43,6 +44,7 @@
   }
 
   li {
+    font-family: $georgia;
     display: inline;
   }
 
@@ -314,6 +316,7 @@
    ========================================================================== */
 
 .nav__list {
+  font-family: $georgia;
   font-size: 1.25rem;
 
   ul {
@@ -380,6 +383,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
+    font-family: $georgia;
     color: #fff;
     font-size: $type-size-6;
     background: $primary-color;
@@ -389,6 +393,7 @@
 }
 
 .toc__menu {
+  font-family: $georgia;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -397,6 +402,7 @@
 
   a {
     display: block;
+    font-family: $georgia;
     padding: 0.5rem 1rem;
     color: $gray;
     font-size: $type-size-7;
