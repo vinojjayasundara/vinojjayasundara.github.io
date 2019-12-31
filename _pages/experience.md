@@ -8,8 +8,8 @@ author_profile: true
 <span style="font-size:0.9em;text-align: justify;">My employment record can also be found on my <a href="https://www.linkedin.com/in/vinoj-jayasundara-983a81129/">LinkedIn</a> profile.</span>
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Research Engineer (Full time)</b><span style="color:green;float:right;padding-right:60px">Oct 2019 - Present </span><br />
-  &nbsp; &nbsp; &nbsp; Artificial Intelligence Initiative, Agency for Science, Technology and Research (A*STAR), Singapore<br /> &nbsp; &nbsp; &nbsp; <span style="font-size:0.9em;text-align: justify"> <i>Research interests: Learning to anticipate human actions that happen in the next one to five seconds using <br/>
-  &nbsp; &nbsp; &nbsp; self-regularized future content generation.</span> </i> <br/></span>
+  &nbsp; &nbsp; &nbsp; Artificial Intelligence Initiative, Agency for Science, Technology and Research (A*STAR), Singapore<br /> &nbsp; &nbsp; &nbsp; <span style="text-align: justify"> <i>Research interests: Learning to anticipate human actions that happen in the next one to five seconds using </span><br/>
+  &nbsp; &nbsp; &nbsp; self-regularized future content generation. </i> <br/></span>
   
 <span style="font-size:0.9em;text-align: justify"> [2]<span style="color:white">a</span><b>Research Engineer (Full time)</b><span style="color:green;float:right;padding-right:60px">Feb 2019 - Oct 2019 </span><br />
   &nbsp; &nbsp; &nbsp; School of Information Systems, Singapore Management University, Singapore<br /> &nbsp; &nbsp; &nbsp; <i>Research interests: Tree-structured convolutional and capsule networks for code analysis and related natural <br/>
