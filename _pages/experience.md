@@ -16,5 +16,5 @@ author_profile: true
   &nbsp; &nbsp; &nbsp; language processing tasks. </i> <br/></span>
   
 <span style="font-size:0.9em;text-align: justify"> [3]<span style="color:white">a</span><b>Senior Software Engineer/Project Lead (Part time remote)</b><span style="color:green;float:right;padding-right:60px">Sep 2018 - Present </span><br />
-  &nbsp; &nbsp; &nbsp; Reservoir Rock Technologies, Perth, Australia<br /> &nbsp; &nbsp; &nbsp; <i>Research interests: Object detection, recognition and scene understanding for self-driving vehicles and underground imaging <br/>
-  &nbsp; &nbsp; &nbsp; language processing tasks. </i> <br/></span>
+  &nbsp; &nbsp; &nbsp; Reservoir Rock Technologies, Perth, Australia<br /> &nbsp; &nbsp; &nbsp; <i>Research interests: Object detection, recognition and scene understanding for self-driving vehicles and <br/>
+  &nbsp; &nbsp; &nbsp; underground imaging. </i> <br/></span>
