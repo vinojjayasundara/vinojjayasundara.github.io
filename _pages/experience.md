@@ -9,6 +9,5 @@ author_profile: true
 
 <span style="font-size:0.9em;text-align: justify"> [1]<span style="color:white">a</span><b>Research Engineer (Full time)</b><span style="color:green;float:right;padding-right:50px">Oct 2019 - Present </span><br />
   &nbsp; &nbsp; &nbsp; Artificial Intelligence Initiative, Agency for Science, Technology and Research (A*STAR), Singapore<br /> <br/>&nbsp; &nbsp; &nbsp; <i>Research interests: Learning to anticipate human actions that happen in the next one to five seconds using <br/>
-  
   &nbsp; &nbsp; &nbsp; self-regularized future content generation. </i> <br/>
    &nbsp; &nbsp; &nbsp; </span>
