@@ -50,7 +50,7 @@ author_profile: true
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="font-size:1em;text-align: justify"><b>Learning Based Approach</b></span><br/>
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green">Vinoj Jayasundara</span>, Hirunima Jayasekara, Tharaka Samarasinghe and Kasun T. Hemachandra<br />
-  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i>Submitted to: </i>IEEE Sensors Journal (<span style="color:green">IEEE Sensors</span>) 2019. (Minor Revision)<br/>
+  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i>Submitted to: </i>IEEE Sensors Journal (<span style="color:green">IEEE Sensors</span>) 2019.<br/>
    &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <a href="https://arxiv.org/pdf/1911.11743.pdf">[Paper]</a> </span>
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>Combined Static and Motion Features for Deep-Networks Based Activity Recognition in Videos</b><br />
