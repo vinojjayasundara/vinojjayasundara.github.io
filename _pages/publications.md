@@ -16,7 +16,7 @@ author_profile: true
 
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>TreeCaps: Tree-Structured Capsule Networks for Program Source Code Processing</b><br />
-  &nbsp; &nbsp; &nbsp; &thinsp; &thinsp; <span style="color:green">Vinoj Jayasundara</span>, Nghi Duy Quoc Bui, Lingxiao Jiang and David Lo <br />
+  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green">Vinoj Jayasundara</span>, Nghi Duy Quoc Bui, Lingxiao Jiang and David Lo <br />
  &nbsp; &nbsp; &nbsp; ML for Systems Workshop, Advances in Neural Information Processing Systems (<span style="color:green">NeurIPS</span>) 2019. <br/>
    &nbsp; &nbsp; &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/8658735/">[Paper]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_ppt.pdf">[Presentation]</a> <a href="https://vinojjayasundara.github.io/files/WACV19_Poster.pdf">[Poster]</a> <a href="https://github.com/vinojjayasundara/textcaps">[Code]</a></span>
 
