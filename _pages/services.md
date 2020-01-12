@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Professional Services</b></span><br/>
 
-<span style="font-size:0.9em"> [1]<span style="color:white">a</span><b>Research Engineer (Full time)</b><br />
-  &nbsp; &thinsp; &thinsp; &thinsp; <span style="color:green;">Oct 2019 - Present </span><br />
-  &nbsp; &thinsp; &thinsp; &thinsp; Artificial Intelligence Initiative, Agency for Science, Technology and Research (A*STAR), Singapore<br /> &nbsp; &thinsp; &thinsp; &thinsp; <i>Research interests: Learning to anticipate human actions that happen in the next one to five seconds using <br/>
-  &nbsp; &thinsp; &thinsp; &thinsp; self-regularized future content generation. </i> <br/></span>
+<span style="font-size:0.9em"> [1]<span style="color:white">a</span>Served as a reviewer for<br /></span>
+<span style="font-size:0.9em; padding-left: 8px;"> &bull; Fundamentals of Image Processing & Machine Vision</span><br/>
+  &nbsp; &thinsp; &thinsp; &thinsp; self-regularized future content generation. </i> <br/>
