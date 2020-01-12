@@ -24,6 +24,7 @@ author_profile: true
 <span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Qin Chuqi, Gabriel Ng: Action Recognition and Anticipation (2020)</span><br/>
 
 <span style="font-size:0.9em"> [2]<span style="color:white">a</span>Conducted supporting tutorials for junior students in multiple modules including:<br /></span>
-<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; IEEE Transactions on Industrial Electronics (Impact Factor: 7.503)</span><br/>
-<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Uvindu Perera: Open Set Recognition (2019/2020)</span><br/>
-<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; IEEE R10HTC’18</span><br/>
+<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Fundamentals of Image Processing & Machine Vision</span><br/>
+<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Computer Organization</span><br/>
+<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Internet of Things</span><br/>
+<span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; Numerical Methods</span><br/>
