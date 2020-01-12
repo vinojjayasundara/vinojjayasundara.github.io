@@ -13,5 +13,6 @@ author_profile: true
 <span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; IEEE MERCON'19</span><br/>
 <span style="font-size:0.9em;"> &nbsp; &thinsp; &thinsp; &thinsp; &bull; IEEE R10HTC’18</span><br/>
 
-<span style="font-size:0.9em"> [1]<span style="color:white">a</span>Currently contributing as a co-organizer on a proposal for a Capsule Networks workshop in ICML 2020, incollaboration with researchers from Vienna University of Technology.<br /></span>
+<span style="font-size:0.9em"> [1]<span style="color:white">a</span>Currently contributing as a co-organizer on a proposal for a Capsule Networks workshop in ICML 2020, <br />
+&nbsp; &thinsp; &thinsp; &thinsp; in collaboration with researchers from Vienna University of Technology.<br /></span>
 
