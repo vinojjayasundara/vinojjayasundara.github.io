@@ -33,9 +33,9 @@ author_profile: true
 
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Member of the ACM SIGKDD Singapore chapter<span style="color:green"> (Since 2019) </span></b><br />
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Member of the Australian Pattern Recognition Society (APRS)<span style="color:green"> (Since 2017) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [2]<span style="color:white">a</span><b>Member of the Australian Pattern Recognition Society (APRS)<span style="color:green"> (Since 2017) </span></b><br />
  
-<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Student Member of Institute of Electrical and Electronics Engineers (IEEE)<span style="color:green"> (Since 2015) </span></b><br />
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [3]<span style="color:white">a</span><b>Student Member of Institute of Electrical and Electronics Engineers (IEEE)<span style="color:green"> (Since 2015) </span></b><br />
  
 <span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Achievements</b></span><br/>
 
