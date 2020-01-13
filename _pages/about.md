@@ -17,6 +17,7 @@ redirect_from:
 <p></p>
 # News!
 
+* <div style="text-align: justify"><span style="font-size:0.9em;"><b>December 2019:</b> First author paper accepted to <span style="color:green"> IEEE Sensors Journal</span>!</span></div>
 * <div style="text-align: justify"><span style="font-size:0.9em;"><b>December 2019:</b> I attended and presented our work on <a href = "https://arxiv.org/pdf/1910.12306.pdf">tree-structured capsule networks</a> at <span style="color:green"> NeurIPS'19</span> in Vancouver, Canada.</span></div>
 * <div style="text-align: justify"><span style="font-size:0.9em;"><b>December 2019:</b> One paper accepted to <span style="color:green"> ICAART'20</span>!</span></div>
 * <div style="text-align: justify"><span style="font-size:0.9em;"><b>September 2019:</b> One paper accepted to the ML for Systems Workshop,<span style="color:green"> NeurIPS'19</span>!</span></div>
