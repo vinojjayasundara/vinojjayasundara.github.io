@@ -25,6 +25,20 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i>  To study for the LL.B., University of London </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Awarded by the Centre for Professional Studies, Sri Lanka <br/>
  
- <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [4]<span style="color:white">a</span><b>Rupasinghe Memorial Scholarship<span style="color:green"> (2011) </span></b><br />
+ <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [5]<span style="color:white">a</span><b>Rupasinghe Memorial Scholarship<span style="color:green"> (2011) </span></b><br />
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i>  For the best performance at GCE O/L examination </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Awarded by Royal College, Sri Lanka <br/>
+ 
+<span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Professional Affiliations</b></span><br/>
+
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Member of the ACM SIGKDD Singapore chapter<span style="color:green"> (Since 2019) </span></b><br />
+ 
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Member of the Australian Pattern Recognition Society (APRS)<span style="color:green"> (Since 2017) </span></b><br />
+ 
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>Student Member of Institute of Electrical and Electronics Engineers (IEEE)<span style="color:green"> (Since 2015) </span></b><br />
+ 
+<span style="font-size:1em;font-family:georgia; color:gray;background-color: #F0F0F0;height: 4em; width: 57em; display:inline-block; vertical-align: middle; padding-top: 22px;padding-left: 8px;text-align: left"><b>Achievements</b></span><br/>
+
+<span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>First runner-up : International Robotics Demonstration Contest<span style="color:green"> (2017) </span></b><br />
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the IEEE Industry Applications Society </i><br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Cincinnati, USA <br/>
