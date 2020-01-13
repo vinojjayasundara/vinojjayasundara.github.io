@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards, Scholarships, Achievements and Professional Affiliations"
-permalink: /talks/
+permalink: /awards/
 author_profile: true
 ---
 
