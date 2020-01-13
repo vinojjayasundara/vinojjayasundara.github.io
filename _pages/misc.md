@@ -13,4 +13,4 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> For the best performance in the first semester of undergraduate study among all state universities </i><br/>
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Awarded by the Public Trustee Department, Sri Lanka <br/>
  
- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1JF2LV6sEQjCcZ1wfwJcakYrIFGriCNCS" width="640" height="480"></iframe>
+ <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1JF2LV6sEQjCcZ1wfwJcakYrIFGriCNCS" width="840" height="680" frameborder="0"></iframe>
