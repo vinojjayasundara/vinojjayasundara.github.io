@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Honored!](vinojjayasundara.github.io/images/cover.jpg)
+![Honored!](https://vinojjayasundara.github.io/images/cover.jpg)
 
 <div style="text-align: justify"><span style="font-size:0.9em;"> I am a Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore working with Dr. <a href = "https://scholar.google.com/citations?user=GyvseMkAAAAJ&hl=en&oi=ao">Basura Fernando</a>, mainly focussing on action recognition and forecasting. I am also a Senior Software Engineer and the Project Lead of the computer vision team at Reservoir Rock Technologies, Australia working on object detection, recognition and scene understanding.</span></div>
 <p></p>
